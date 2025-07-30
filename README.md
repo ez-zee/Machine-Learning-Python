@@ -1,2 +1,2 @@
 # Machine-Learning-Python
-ML models w/Python
+Using Python to create predictive ML models 
