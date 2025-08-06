@@ -1,3 +1,2 @@
 # Machine-Learning-Python
-Using Python to create ML models. 
-This repo keeps updating.
+Using Python to create ML models. More models are coming soon.
