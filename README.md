@@ -1,2 +1,2 @@
 # Machine-Learning-Python
-Using Python to create ML models. More models are coming soon.
+I use Python to create ML models. More models are coming soon.
